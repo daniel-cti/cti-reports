@@ -137,7 +137,7 @@ sfrclak[.]com:8000    macOS/Win/Linux       Exfil over C2
 
 ---
 
-## 9. Source Characterization (ICD 203 §4.4)
+## 9. Source Characterization (ICD 203 4.4)
 
 *All sources are publicly available OSINT.*
 
