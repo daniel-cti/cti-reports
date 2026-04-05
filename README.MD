@@ -49,7 +49,7 @@ Reports follow the [Traffic Light Protocol (TLP)](https://www.first.org/tlp/):
 
 | Level | Color | Distribution |
 |---|---|---|
-| WHITE | 🟢 | No restrictions. Free distribution. |
+| WHITE |    | No restrictions. Free distribution. |
 | GREEN | 🟢 | Cybersecurity community. Do not publish outside the sector. |
 | AMBER | 🟠 | Organization and affected clients under non-redistribution agreement. |
 | AMBER+STRICT | 🟠 | Internal organization only. Do not share with clients. |
