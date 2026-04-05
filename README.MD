@@ -1,6 +1,6 @@
 # CTI Reports
 
-**Author:** `[YOUR NAME HERE]`
+**Author:** `Daniel A`
 
 Repository of Cyber Threat Intelligence (CTI) reports produced following **BLUF + ICD 203 (Analytic Standards)** methodology.
 
