@@ -37,8 +37,8 @@ Intelligence Community Directive 203 establishes analytic standards for finished
 | Unlikely | ≤24% |
 
 - **Confidence levels** — HIGH / MODERATE / LOW based on source quality and convergence, not subjective certainty.
-- **Alternative hypotheses** — documented and assessed in every report (ICD 203 §4.6).
-- **Source characterization** — type, quality, and limitations of every source (ICD 203 §4.4).
+- **Alternative hypotheses** — documented and assessed in every report (ICD 203 4.6).
+- **Source characterization** — type, quality, and limitations of every source (ICD 203 4.4).
 - **Explicit separation** between observed facts, analytical inferences, and forward-looking estimates.
 
 ---
