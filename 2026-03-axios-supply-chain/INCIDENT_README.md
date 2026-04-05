@@ -1,7 +1,7 @@
 # Axios npm Supply Chain Attack (March 2026)
 
 **Date:** March 31, 2026  
-**Author:** `[YOUR NAME HERE]`  
+**Author:** `Daniel A`  
 **TLP:** WHITE — Unrestricted distribution  
 
 ---
